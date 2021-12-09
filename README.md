@@ -1,0 +1,2 @@
+# Li-ion_holder-charger_18650
+A charger/holder for up to four lithium-ion battery cells. Charging current is a very conservative 1A total, regardless of how many cells are installed. This is due to the input being USB-C and the need for the circuit to be able to output some power while also charging the cells. The Ideal diode circuit switches the output to 5V from the USB if the charger is connected, otherwise the output comes from the li-ion cells.
