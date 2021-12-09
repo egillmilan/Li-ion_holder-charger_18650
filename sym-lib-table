@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Li-Ion_18650_charger")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Li-Ion_18650_charger.kicad_sym")(options "")(descr ""))
+)
